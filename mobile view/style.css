@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+}
+
+nav a{
+   
+    text-decoration:none ;
+}
+
+
+ul{
+    display: flex;
+    
+}
+
+ul a{
+    color: black;
+    padding-right: 18px;
+}
+
+ul li{
+    list-style: none;
+}
+
+nav a:hover{
+   background-color: rgb(6, 104, 55);
+    font-size: 20px;
+}
+
